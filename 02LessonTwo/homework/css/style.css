@@ -1,4 +1,22 @@
 body {
-  font-family:"Arial"
-
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  color: White
 }
+
+body {
+  background-image: url("http://www.nemonic.com.au/wp-content/uploads/2013/04/Chicago-view-from-an-airplane-Illinois-United-States.jpg");
+
+  background-color: black;
+
+  background-repeat: no-repeat;
+}
+
+/*
+
+As mentioned in the html sheet, I would like to center-align the text, but I don't know how to align the bullet points of the unordered list.
+
+body {
+  text-align: center;
+}
+
+*/
