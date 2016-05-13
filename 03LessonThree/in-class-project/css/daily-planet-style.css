@@ -15,8 +15,13 @@ section, aside {
 section {
     width: 70%
 }
+
 aside {
     width: 20%;
+}
+
+img {
+  width: 100%;
 }
 
 footer {
